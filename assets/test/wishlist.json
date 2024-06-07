@@ -1,0 +1,79 @@
+{
+  "wishlist": [
+    {
+      "image": "https://images.pexels.com/photos/1416736/pexels-photo-1416736.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "text": "Sweater Hijau",
+      "text2": "Rp. 200.000",
+      "text3": "4.4"
+    },
+    {
+      "image": "https://images.pexels.com/photos/792326/pexels-photo-792326.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "text": "Blue Varsity Jacket",
+      "text2": "Rp. 600.000",
+      "text3": "4.2"
+    },
+    {
+      "image": "https://images.pexels.com/photos/1374509/pexels-photo-1374509.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "text": "Rompi Putih",
+      "text2": "Rp. 100.000",
+      "text3": "4.5"
+    },
+    {
+      "image": "https://images.pexels.com/photos/1104007/pexels-photo-1104007.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "text": "Singklet item",
+      "text2": "Rp. 600.000",
+      "text3": "4.2"
+    },
+    {
+      "image": "https://images.pexels.com/photos/4091199/pexels-photo-4091199.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "text": "Sweat Shirt",
+      "text2": "Rp. 500.000",
+      "text3": "4.5"
+    },
+    {
+      "image": "https://images.pexels.com/photos/1126662/pexels-photo-1126662.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "text": "Hoodie",
+      "text2": "Rp. 80.000",
+      "text3": "4.6"
+    }
+  ],
+  "hoodie": [
+    {
+      "image": "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    {
+      "image": "https://images.pexels.com/photos/1035692/pexels-photo-1035692.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    {
+      "image": "https://images.pexels.com/photos/1906157/pexels-photo-1906157.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    {
+      "image": "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=800"
+    }
+  ],
+  "size": [
+    {
+      "title": "S"
+    },
+    {
+      "title": "XS"
+    },
+    {
+      "title": "M"
+    },
+    {
+      "title": "L"
+    },
+    {
+      "title": "XL"
+    },
+    {
+      "title": "XXL"
+    }
+  ],
+  "delivery": [
+    {
+      "title": "Delivery"
+    }
+  ]
+}

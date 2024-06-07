@@ -1,0 +1,22 @@
+Consumer<FirstPageViewModel>(
+          builder:
+              (BuildContext context, FirstPageViewModel value, Widget? child) {
+            if (value.wishlist.isEmpty) {
+              value.apiWishlistCalling();
+            }
+            return Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: SingleChildScrollView(
+                child: Wrap(
+                  children: List.generate(
+                      value.wishlist.length,
+                      (index) => ContainerCustom(
+                          image: value.wishlist[index]['image'],
+                          text: value.wishlist[index]['text'],
+                          text2: value.wishlist[index]['text2'],
+                          text3: value.wishlist[index]['text3'])).toList(),
+                ),
+              ),
+            );
+          },
+        ),

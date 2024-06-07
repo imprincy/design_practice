@@ -1,0 +1,38 @@
+{
+  "card": [
+    {
+      "title": "Ower",
+      "subtitle": "Pay"
+    }
+  ],
+  "detail": [
+    {
+      "title": "Shivam Sharma",
+      "subtitle": "****   ****   ****   2587"
+    }
+  ],
+  "cardDetail": [
+    {
+      "text1": "Inventory",
+      "text2": "$459.000",
+      "text3": "Cvv2",
+      "text4": "456"
+    },
+    {
+      "text1": "Inventory111111",
+      "text2": "$459.000",
+      "text3": "Cvv2",
+      "text4": "456"
+    }
+  ],
+  "quantity": [
+    {
+      "text1": "Number",
+      "text2": "1 Item"
+    },
+    {
+      "text1": "Total price",
+      "text2": "$450.23"
+    }
+  ]
+}

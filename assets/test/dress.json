@@ -1,0 +1,40 @@
+{
+  "item": [
+    {
+      "heading": "New Collection",
+      "title": "Discount 50% for \nthe first transaction",
+      "subtitle": "Shop Now"
+    }
+  ],
+  "category": [
+    {
+      "title": "T-Shirt"
+    },
+    {
+      "title": "Pant"
+    },
+    {
+      "title": "Dress"
+    },
+    {
+      "title": "Jacket"
+    }
+  ],
+  "Sale": [
+    {
+      "title": "All"
+    },
+    {
+      "title": "Newest"
+    },
+    {
+      "title": "Popular"
+    },
+    {
+      "title": "Man"
+    },
+    {
+      "title": "Women"
+    }
+  ]
+}
